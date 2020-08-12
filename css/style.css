@@ -1,0 +1,16 @@
+#main{
+    justify-content: center;
+}
+#title{
+    text-align: center;
+}
+#img-div{
+    text-align: center;
+}
+#img{
+    width: auto;
+}
+#img-caption{
+justify-content: center;
+width: 100%
+}
