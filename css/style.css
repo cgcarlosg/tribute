@@ -7,10 +7,14 @@
 #img-div{
     text-align: center;
 }
-#img{
-    width: auto;
+#image{
+    
+    max-width: none;
 }
 #img-caption{
 justify-content: center;
 width: 100%
+}
+ul{
+   justify-content:  center;
 }
