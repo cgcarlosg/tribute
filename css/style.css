@@ -1,20 +1,51 @@
 #main{
     justify-content: center;
+    background: rgb(228, 226, 226);
 }
 #title{
     text-align: center;
 }
 #img-div{
+    
     text-align: center;
+    background: white;
+   
+}
+#item{
+    text-align: center;
+  
+
 }
 #image{
     
-    max-width: none;
+    max-width: 50%;
+    height:auto;
+    align-items: center;
+    
+    
 }
 #img-caption{
-justify-content: center;
-width: 100%
+    margin-top: 20px;
+    justify-content: center;
+    width: 100%
+}
+#tribute-info{
+    margin-top: 20px;
+    justify-content: center;
+   
+}
+#intro{
+    text-align: center;
 }
 ul{
+    text-align:center;
    justify-content:  center;
+   width:100%;
+   float:center;
+}
+li{
+    text-align:left;
+    width:80%;
+
+    
 }
